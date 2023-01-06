@@ -221,6 +221,7 @@ input[type=number]::-webkit-outer-spin-button {
     color: #ef3c0f;
     font-size: 45px;
     font-weight: bolder;
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, .7);
 }
 .footer>p{
     color: #b0aeae;
